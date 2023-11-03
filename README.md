@@ -1,3 +1,3 @@
 # demo
 This is my first git Repository.
-Author - dhiraj Mandal
+Author - Dhiraj Mandal
